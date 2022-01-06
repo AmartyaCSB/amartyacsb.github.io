@@ -1,6 +1,6 @@
 title: Amartya Mandal
 description: Personal Website
-sourcecode: "https://amartyacsb.github.io/"
+sourcecode: "http://amartyacsb.github.io/"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
